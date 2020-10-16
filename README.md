@@ -14,7 +14,7 @@ Deixo aqui uma lista de Faculdades integradas na área de tecnologia. Tanto para
 <br><img height="60" src=https://lh3.googleusercontent.com/proxy/jTw2Oakf1RzzaCk9hAHbZhklaPwhm_1QWtEqL-3zID9od2ICjJJCR8Ndl5jvwY00OYrITz6m8FNq3dxLtQSAIRJSTbXjdFibBk0uJdf_CQ4GF0uBf9KMcxRhdUVb7UwNJWL4ag />
 [BandTec Digital School](http://www.digitalschool.com.br/faculdade/) é a Faculdade de Tecnologia que prepara o aluno para a vida profissional. Por isso, os cursos são práticos, com ênfase em atividades de laboratório, estudos de caso e projetos que fazem parte do dia a dia das empresas. Nossa missão é formar e transformar os protagonistas das novas gerações digitais, profissionais capacitados a construir o futuro para si mesmos, para suas empresas e para a humanidade.
 
-<br><img height="90" src=https://cdn.imp-multimedia.com/aezakaz73tskccw.jpg />
+<br><img height="100" src=https://cdn.imp-multimedia.com/aezakaz73tskccw.jpg />
 [Impacta Treinamentos - Cursos e soluções para sua carreira](https://www.impacta.com.br/) Desde 1988 essa é a mentalidade que rege a missão da Impacta Treinamentos no treinamento de profissionais especializados e preparados para assumir posições de liderança nos mercados de TI, Gestão e Design.
 
 <br><img height="150" src=https://www.caelum.com.br/assets/image/caelum-share.1583504267.png />
